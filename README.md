@@ -1,5 +1,5 @@
 # E-Commerce
-Demo link for ecommerce project: https://demo.evershop.io/
+Facing some issues with vercel and netlify so production live link might not be working. However check by downloading each folder.
 Three folders are uploaded at this repository and each folder is unique.
 Every folder serves the purpose of week 7, week 8 and final project which were all under ecommerce.
 To test them download specific folder zip folder followed by its name and open on vs code.
